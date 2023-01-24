@@ -1,7 +1,6 @@
 // required packages
 const express = require('express')
 const cors = require('cors')
-
 // app config
 const app = express()
 const PORT = 8000
